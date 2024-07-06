@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     const prices = {
-        price1: 10000.00,
-        price2: 15000.00,
+        price1: 150.00,
+        price2: 1200.00,
         price3: 15000.00,
         price4: 10000.00,
         price5: 10000.00,
