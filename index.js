@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const prices = {
         price1: 150.00,
         price2: 1200.00,
-        price3: 15000.00,
-        price4: 10000.00,
-        price5: 10000.00,
-        price6: 20000.00,
+        price3: 1400.00,
+        price4: 1000.00,
+        price5: 1000.00,
+        price6: 2000.00,
     };
 
     const qtyInputs = [
